@@ -1,0 +1,20 @@
+{
+  "name": "project09_countdown_timer",
+  "version": "1.0.0",
+  "description": "In this project, you will build a countdown timer using the [date module](https://usefulangle.com/post/187/nodejs-get-date-time).",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
